@@ -1,3 +1,4 @@
+
 # CODETECH-task1
 Name: GANDLA VENU
 Company:CODETECH IT SOLUTIONS
@@ -5,7 +6,7 @@ ID:CT8PP1760
 Domain:Python Programming
 Duration:July to September 2024
 Member:Muzammil Ahmed
-
+![Screenshot 2024-07-29 193017](https://github.com/user-attachments/assets/4312bb90-fb5a-42bc-ac59-e35052e68185)
 OVER VIEW OF PROJECT
 How It Works:
 
